@@ -15,11 +15,11 @@ and this is meant for the homework for Software development ways and tools class
 
 ### C++
 
-'
-#include <iostream>
-using namespace std;
-int main() {
-  cout << "Hello World!" << endl;
-  return 0;
-}
+
+'#include <iostream>'
+'using namespace std;'
+'int main() {'
+'  cout << "Hello World!" << endl;'
+'  return 0;'
+'}'
   
