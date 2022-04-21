@@ -9,4 +9,17 @@ and this is meant for the homework for Software development ways and tools class
 2. *master python*
 3. *become an expert at data science and machine learning*
 
+### python
+
 'print("Hello World!")'
+
+### C++
+
+'
+#include <iostream>
+using namespace std;
+int main() {
+  cout << "Hello World!" << endl;
+  return 0;
+}
+  
