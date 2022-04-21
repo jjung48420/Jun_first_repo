@@ -11,7 +11,9 @@ and this is meant for the homework for Software development ways and tools class
 
 ### python
 
-'print("Hello World!")'
+``` 
+print("Hello World!")
+``` 
 
 ### C++
 
